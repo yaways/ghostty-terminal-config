@@ -1,10 +1,14 @@
 # Ghostty Terminal Config
 
 macOS 下基于 Ghostty + Starship + zsh 插件的终端美化方案。
-在原库https://github.com/justhalfbit/ghostty-terminal-config 的基础上，优化如下内容：
-1、优化“动态加载 zsh-autosuggestions 和 zsh-syntax-highlighting 脚本，自动适配 Intel Mac 及 Apple Silicon Mac。
-2、新增参数shell-integration-features：解决SSH远程报错与退格键错乱。
-3、新增参数clipboard-trim-trailing-spaces：复制时自动去除行尾空格。
+
+在原库 https://github.com/justhalfbit/ghostty-terminal-config 的基础上，调整如下内容：
+
+> 1、优化“动态加载`zsh-autosuggestions`和`zsh-syntax-highlighting`脚本，自动适配`Intel Mac`及`Apple Silicon Mac`。
+> 
+> 2、新增参数 `shell-integration-features`：解决 SSH 远程报错与退格键错乱。
+> 
+> 3、新增参数 `clipboard-trim-trailing-spaces`：复制时自动去除行尾空格。
 
 ## 效果
 
