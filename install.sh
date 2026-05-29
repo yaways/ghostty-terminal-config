@@ -4,7 +4,7 @@
 # ghostty-terminal-config 一键安装脚本
 # ==============================================================================
 # 用法:
-#   bash <(curl -fsSL https://raw.githubusercontent.com/justhalfbit/ghostty-terminal-config/main/install.sh)
+#   bash <(curl -fsSL https://raw.githubusercontent.com/yaways/ghostty-terminal-config/main/install.sh)
 #
 # 说明:
 #   1. 安装 Homebrew 依赖（字体、终端工具、zsh 插件）
