@@ -1,7 +1,7 @@
 # Ghostty Terminal Config
 
-macOS 下基于 Ghostty + Starship + zsh 插件的终端美化方案，从 iTerm2 + oh-my-zsh 迁移而来，更轻量更快。
-
+macOS 下基于 Ghostty + Starship + zsh 插件的终端美化方案。
+在原库https://github.com/justhalfbit/ghostty-terminal-config的基础上，新增“动态加载 zsh-autosuggestions 和 zsh-syntax-highlighting脚本，适配 Intel Mac 及 Apple Silicon Mac。
 ## 效果
 
 - 彩虹条提示符（基于 Starship 官方 catppuccin-powerline 预设，启用换行显示）
