@@ -83,7 +83,7 @@ brew install starship fzf zoxide eza bat yazi zsh-autosuggestions zsh-syntax-hig
 ### 2. 下载配置文件
 
 ```bash
-git clone --depth 1 https://github.com/justhalfbit/ghostty-terminal-config.git /tmp/ghostty-config
+git clone --depth 1 https://github.com/yaways/ghostty-terminal-config.git /tmp/ghostty-config
 ```
 
 ### 3. 安装配置文件
