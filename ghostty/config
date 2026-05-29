@@ -46,7 +46,12 @@ cursor-style-blink = true
 # confirm-close-surface: 关闭窗口时不弹确认框
 # mouse-hide-while-typing: 打字时自动隐藏鼠标光标
 # shell-integration: 启用 zsh shell 集成（支持命令跳转等功能）
+# clipboard-trim-trailing-spaces：复制时自动去除行尾空格
+# shell-integration-features：解决远程报错与退格键错乱
 copy-on-select = clipboard
 confirm-close-surface = false
 mouse-hide-while-typing = true
-shell-integration = zsh
+clipboard-trim-trailing-spaces = true
+shell-integration = detect
+shell-integration-features = ssh-terminfo,ssh-env,cursor,sudo,title
+
