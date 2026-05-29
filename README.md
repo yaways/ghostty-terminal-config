@@ -19,7 +19,7 @@ macOS 下基于 Ghostty + Starship + zsh 插件的终端美化方案，从 iTerm
 ## 一键安装
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/justhalfbit/ghostty-terminal-config/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/yaways/ghostty-terminal-config/main/install.sh)
 ```
 
 安装前会询问确认，确认后自动执行：
